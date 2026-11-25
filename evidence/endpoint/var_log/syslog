@@ -1,0 +1,15 @@
+Nov 21 02:35:10 aegis-eng-ws01 systemd[1]: Starting Daily apt download activities...
+Nov 21 02:35:12 aegis-eng-ws01 systemd[1]: apt-daily.service: Deactivated successfully.
+Nov 21 02:55:02 aegis-eng-ws01 kernel: [ 1842.190124] usb 1-2: new high-speed USB device number 4 using xhci_hcd
+Nov 21 02:55:02 aegis-eng-ws01 kernel: [ 1842.339821] usb 1-2: New USB device found, idVendor=0781, idProduct=5583, bcdDevice= 1.00
+Nov 21 02:55:02 aegis-eng-ws01 kernel: [ 1842.339825] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov 21 02:55:02 aegis-eng-ws01 kernel: [ 1842.339828] usb 1-2: Product: Ultra Fit
+Nov 21 02:55:02 aegis-eng-ws01 kernel: [ 1842.339830] usb 1-2: Manufacturer: SanDisk
+Nov 21 02:55:02 aegis-eng-ws01 kernel: [ 1842.339832] usb 1-2: SerialNumber: 4C530001220419114251
+Nov 21 02:55:02 aegis-eng-ws01 kernel: [ 1842.341200] usb-storage 1-2:1.0: USB Mass Storage device detected
+Nov 21 02:55:03 aegis-eng-ws01 kernel: [ 1843.342110] scsi 2:0:0:0: Direct-Access     SanDisk  Ultra Fit        1.00 PQ: 0 ANSI: 6
+Nov 21 02:55:03 aegis-eng-ws01 kernel: [ 1843.343000] sd 2:0:0:0: [sdb] 120176640 512-byte logical blocks: (61.5 GB/57.3 GiB)
+Nov 21 02:55:03 aegis-eng-ws01 kernel: [ 1843.344120]  sdb: sdb1
+Nov 21 02:55:03 aegis-eng-ws01 kernel: [ 1843.346510] sd 2:0:0:0: [sdb] Attached SCSI removable disk
+Nov 21 02:55:05 aegis-eng-ws01 systemd[1]: Mounted /media/usb_drop - Removable Volume.
+Nov 21 03:02:18 aegis-eng-ws01 kernel: [ 2278.910244] sdb: detected unmount request
