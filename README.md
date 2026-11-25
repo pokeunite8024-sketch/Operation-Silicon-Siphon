@@ -1,5 +1,5 @@
 # Operation Silicon Siphon: The Aegis Lab Breach
-### An AI-Resistant Multi-Domain Digital Forensics & Incident Response (DFIR) Challenge
+### An Multi-Domain Digital Forensics & Incident Response (DFIR) Challenge
 
 **Category:** Digital Forensics / Host, Network, Hardware & Signal Incident Response  
 **Difficulty:** Advanced-Intermediate (CTF / SANS / SOC Style)  
